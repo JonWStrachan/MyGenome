@@ -1,1 +1,4 @@
-
+untrimmed data sets
+trimmed data
+assembled data
+log file from successful trim and assembly
